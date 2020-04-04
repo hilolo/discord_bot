@@ -11,16 +11,16 @@ const client8 = new Discord.Client();
 const client9 = new Discord.Client();
 const client10 = new Discord.Client();
 
-client.login(process.env.TOKEN);
-client2.login(process.env.TOKEN2);
-client3.login(process.env.TOKEN3);
-client4.login(process.env.TOKEN4);
-client5.login(process.env.TOKEN5);
-client6.login(process.env.TOKEN6);
-client7.login(process.env.TOKEN7); 
-client8.login(process.env.TOKEN8); 
-client9.login(process.env.TOKEN9); 
-client10.login(process.env.TOKEN10);
+client.login(TOKEN);
+client2.login(TOKEN2);
+client3.login(TOKEN3);
+client4.login(OKEN4);
+client5.login(TOKEN5);
+client6.login(TOKEN6);
+client7.login(TOKEN7); 
+client8.login(TOKEN8); 
+client9.login(TOKEN9); 
+client10.login(TOKEN10);
 
 
 
