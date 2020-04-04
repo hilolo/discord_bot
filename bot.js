@@ -3,7 +3,7 @@ const myid = ['Your ID']
 const client = new Discord.Client();
 
 
-client.login("Njk1ODQwNjk5NzY0OTY1Mzg2.XogEeg.crmbswpVWASN1OKgCVWRJoLHFi8");
+client.login("Njk1ODQwNjk5NzY0OTY1Mzg2.XogF0Q.B7WM89NHH81rHxQgeHq7mUQTBu4");
 
 
 
