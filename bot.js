@@ -11,16 +11,16 @@ const client8 = new Discord.Client();
 const client9 = new Discord.Client();
 const client10 = new Discord.Client();
 
-client.login(TOKEN);
-client2.login(TOKEN2);
-client3.login(TOKEN3);
-client4.login(OKEN4);
-client5.login(TOKEN5);
-client6.login(TOKEN6);
-client7.login(TOKEN7); 
-client8.login(TOKEN8); 
-client9.login(TOKEN9); 
-client10.login(TOKEN10);
+client.login("Njk1Mzc1MTgxNjg1OTgxMjY0.XofFWA.lzSyyc-cKrugCJWoMWJ91W0b8nU");
+client2.login("Njk1ODEzNDUxMTU0NDU2NjM2.Xofpfg.K4Iujr0ad6bEiwvTMsOVsi9Q4bw");
+client3.login("Njk1ODE0Mjc5MzIwMDQzNTMw.XofpqQ.wcld3N8wAsAfD8KcDZEdIbxY9G8");
+client4.login("Njk1ODE3MDUzNjA4ODY5OTEw.XofsSw.iEly_QlYtJlkYmXlu8xr_SLTZtA");
+client5.login("Njk1ODE5NjA0MDc3MDUxOTM0.Xofuzw.YU9rkgAUBdpvl21tnPcISyuJtNI");
+client6.login("Njk1ODIwMzI0NDc3OTkyOTcx.XofvlA.q_iVOOXd-sQXsorZhp0RQJC0T3I");
+client7.login("Njk1ODIxMzQ5NTk5NTc2MTA0.XofwIw.Dnw639lm4GMva6OgKhGXlm8gMDU"); 
+client8.login("Njk1ODIxOTEzNDE4NjI5MTUw.Xofw4w.LvFCzCYFD4d5SF2UX4Lxh3HgnrM"); 
+client9.login("Njk1ODIyNzU3NTY4NDQ2NDc1.XofxoQ.0jCslHVSnDucxJweQ64nHdLEO3s"); 
+client10.login("Njk1ODIzNDYyMDUyMTM1MDMy.XofyPA.ASbXJFhpopKx2MNdAT9NSbpW81o");
 
 
 
